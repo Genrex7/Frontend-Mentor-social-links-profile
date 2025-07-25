@@ -1,0 +1,46 @@
+@import 'tailwindcss';
+
+/* 
+01 LAYOUT
+    - Mobile: 375px
+    - Desktop: 1440px
+
+02 COLORS
+    - Primary:
+        -- Green: hsl(75, 94%, 57%)
+
+    - Neutral:
+        -- White: #fff
+        -- Grey-700: hsl(0, 0%, 20%)
+        -- Grey-800: hsl(0, 0%, 12%)
+        -- Grey-900: hsl(0, 0%, 8%)
+
+03 TYPOGRAPHY
+    - Family: [Inter](https://fonts.google.com/specimen/Inter)
+
+- Font size (paragraph): 14px
+
+
+		- Font Size (px):
+			24 / 20 / 16 / 14_main_desktop / 12
+
+		- Font Weight:
+			400 / 600 / 700
+
+		- Spacing (px):
+			24 / 12 / 8 / 4
+
+04 SHADOWS
+    border-shadow: 8px 8px 0 rgba(0, 0, 0)
+    border-shadow: 16px 16px 0 rgba(0, 0, 0)
+
+*/
+
+@theme {
+	--font-inter: 'Inter', 'sans-serif';
+	--color-green: hsl(75, 94%, 57%);
+	--color-white: hsl(0, 0%, 100%);
+	--color-grey-700: hsl(0, 0%, 20%);
+	--color-grey-800: hsl(0, 0%, 12%);
+	--color-grey-900: hsl(0, 0%, 8%);
+}
