@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github/Social-links-profile]()
-- Live Site URL: [Frontend Mentor/Social-links-profile]()
+- Solution URL: [Github/Social-links-profile](https://github.com/Genrex7/Frontend-Mentor-social-links-profile)
+- Live Site URL: [Frontend Mentor/Social-links-profile](https://genrex7.github.io/Frontend-Mentor-social-links-profile/)
 
 ## My process
 
